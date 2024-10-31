@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PalindromeChecker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GXkUFOV99Fw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marvi\\Desktop\\Leetcode\\Longest Palindromic String\\LongestPalindromicString\\LongestPalindromicString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marvi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

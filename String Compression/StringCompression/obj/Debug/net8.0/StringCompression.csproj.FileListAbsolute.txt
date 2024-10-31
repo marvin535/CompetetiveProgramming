@@ -1,0 +1,14 @@
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\bin\Debug\net8.0\StringCompression.exe
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\bin\Debug\net8.0\StringCompression.deps.json
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\bin\Debug\net8.0\StringCompression.runtimeconfig.json
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\bin\Debug\net8.0\StringCompression.dll
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\bin\Debug\net8.0\StringCompression.pdb
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\obj\Debug\net8.0\StringCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\obj\Debug\net8.0\StringCompression.AssemblyInfoInputs.cache
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\obj\Debug\net8.0\StringCompression.AssemblyInfo.cs
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\obj\Debug\net8.0\StringCompression.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\obj\Debug\net8.0\StringCompression.dll
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\obj\Debug\net8.0\refint\StringCompression.dll
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\obj\Debug\net8.0\StringCompression.pdb
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\obj\Debug\net8.0\StringCompression.genruntimeconfig.cache
+C:\Users\marvi\Desktop\Leetcode\String Compression\StringCompression\obj\Debug\net8.0\ref\StringCompression.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FizzBuzz": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

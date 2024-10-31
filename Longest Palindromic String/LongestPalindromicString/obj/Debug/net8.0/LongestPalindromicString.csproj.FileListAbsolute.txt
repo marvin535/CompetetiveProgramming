@@ -1,0 +1,14 @@
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\bin\Debug\net8.0\LongestPalindromicString.exe
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\bin\Debug\net8.0\LongestPalindromicString.deps.json
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\bin\Debug\net8.0\LongestPalindromicString.runtimeconfig.json
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\bin\Debug\net8.0\LongestPalindromicString.dll
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\bin\Debug\net8.0\LongestPalindromicString.pdb
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\obj\Debug\net8.0\LongestPalindromicString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\obj\Debug\net8.0\LongestPalindromicString.AssemblyInfoInputs.cache
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\obj\Debug\net8.0\LongestPalindromicString.AssemblyInfo.cs
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\obj\Debug\net8.0\LongestPalindromicString.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\obj\Debug\net8.0\LongestPalindromicString.dll
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\obj\Debug\net8.0\refint\LongestPalindromicString.dll
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\obj\Debug\net8.0\LongestPalindromicString.pdb
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\obj\Debug\net8.0\LongestPalindromicString.genruntimeconfig.cache
+C:\Users\marvi\Desktop\Leetcode\Longest Palindromic String\LongestPalindromicString\obj\Debug\net8.0\ref\LongestPalindromicString.dll

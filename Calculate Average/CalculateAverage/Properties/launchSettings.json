@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CalculateAverage": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

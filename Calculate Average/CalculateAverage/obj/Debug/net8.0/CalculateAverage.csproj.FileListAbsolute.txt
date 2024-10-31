@@ -1,0 +1,14 @@
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\bin\Debug\net8.0\CalculateAverage.exe
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\bin\Debug\net8.0\CalculateAverage.deps.json
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\bin\Debug\net8.0\CalculateAverage.runtimeconfig.json
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\bin\Debug\net8.0\CalculateAverage.dll
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\bin\Debug\net8.0\CalculateAverage.pdb
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\obj\Debug\net8.0\CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\obj\Debug\net8.0\CalculateAverage.AssemblyInfoInputs.cache
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\obj\Debug\net8.0\CalculateAverage.AssemblyInfo.cs
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\obj\Debug\net8.0\CalculateAverage.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\obj\Debug\net8.0\CalculateAverage.dll
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\obj\Debug\net8.0\refint\CalculateAverage.dll
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\obj\Debug\net8.0\CalculateAverage.pdb
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\obj\Debug\net8.0\CalculateAverage.genruntimeconfig.cache
+C:\Users\marvi\Desktop\Leetcode\Calculate Average\CalculateAverage\obj\Debug\net8.0\ref\CalculateAverage.dll

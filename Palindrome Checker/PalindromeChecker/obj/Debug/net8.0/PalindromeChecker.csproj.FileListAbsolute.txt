@@ -1,0 +1,14 @@
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.exe
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.deps.json
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.runtimeconfig.json
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.dll
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\bin\Debug\net8.0\PalindromeChecker.pdb
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.AssemblyInfo.cs
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.dll
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\obj\Debug\net8.0\refint\PalindromeChecker.dll
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.pdb
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\obj\Debug\net8.0\PalindromeChecker.genruntimeconfig.cache
+C:\Users\marvi\Desktop\Leetcode\Palindrome Checker\PalindromeChecker\obj\Debug\net8.0\ref\PalindromeChecker.dll
